@@ -1,0 +1,10 @@
+body{
+    background-color: burlywood;
+}
+
+table{
+    float: right;
+    font-style: italic;
+    color: darkblue;
+    text-align: center;
+}
